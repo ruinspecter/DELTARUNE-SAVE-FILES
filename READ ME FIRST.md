@@ -1,24 +1,45 @@
-# 💜 Deltarune Save Files (Chapter 1 & 2)
+💜 Deltarune Save Files
 
-**⚠️ PLEASE READ BEFORE INJECTING THESE SAVE FILES ⚠️**
+(Chapter 1 & 2 – More Coming Soon)
 
-This repository contains specific save files for *Deltarune*. These are **NOT** neutral runs. They are designed for players who want specific outcomes or are preparing for future chapters.
+Welcome! This repository contains curated save files for Deltarune
+designed for specific routes and outcomes.
 
-## 📂 Save File Contents
+⚠️ Please read everything below before using these save files.
 
-* **Chapter 1:** | **Pacifist Route**
-* **Chapter 2:** | **Weird / Snowgrave Route**
+------------------------------------------------------------------------
 
-> **Note:** If you are looking for Chapter 3 and 4 content, it is not available here (as the chapters are not released yet). They will be added very soon
+📦 INCLUDED SAVE FILES
 
----
+These are NOT neutral runs. They are prepared for specific routes:
 
-## 🛠️ Support
+Chapter 1 - Pacifist Route Chapter 2 - Weird / Snowgrave Route
 
-If you have any issues with the files, **do not open a GitHub Issue.** I will not read them.
+------------------------------------------------------------------------
 
-Instead, please contact me on Discord:
-* **Username:** `ruinspecter`
+🚧 UPCOMING CONTENT
 
----
-*Disclaimer: Always backup your own save files before replacing them and dont mess with anything unless yk what ur doing!*
+-   Chapter 3 Save Files (Coming Soon)
+-   Chapter 4 Save Files (Coming Soon)
+-   Neutral Route Saves (Coming Soon)
+
+Note: Chapters 3 and 4 are not currently available.
+
+------------------------------------------------------------------------
+
+⚠️ IMPORTANT INFORMATION
+
+-   Always backup your own save files before replacing anything.
+-   Do NOT modify files unless you know what you’re doing.
+-   Use these saves at your own risk.
+
+------------------------------------------------------------------------
+
+🛠️ SUPPORT
+
+If you experience issues:
+
+DO NOT open a GitHub Issue (they will not be reviewed). Contact me
+directly on Discord instead:
+
+Username: ruinspecter

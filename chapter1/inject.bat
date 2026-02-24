@@ -4,7 +4,7 @@ title Deltarune Save Injector v1.0 Pre-Release
 cls
 
 :: ======== Version Info ========
-set "CURRENT_VERSION=1.0 Pre-Release"
+set "CURRENT_VERSION=1.0"
 set "VERSION_FILE_URL=https://raw.githubusercontent.com/ruinspecter/MYFILESAVEINJECTORVERSIONSMH/main/version.txt"
 set "RELEASES_URL=https://github.com/ruinspecter/DELTARUNE-SAVE-FILES/releases/tag/deltarune"
 
